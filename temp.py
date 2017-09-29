@@ -14,3 +14,5 @@ cur.execute("CREATE TABLE  IF NOT EXISTS store(item TEXT, quantity INTEGER, pric
 conn.commit()
 conn.close()
 print("1st Commit of Dai")
+print("2nd Commit of Dai")
+
